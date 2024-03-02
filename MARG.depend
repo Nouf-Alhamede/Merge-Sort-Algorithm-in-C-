@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698142952 source:c:\marg\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<random>
+	<functional>
+
